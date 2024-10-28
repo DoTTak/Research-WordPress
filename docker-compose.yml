@@ -5,8 +5,11 @@ services:
     build:
       context: web
     container_name: web
+    environment:
+      - TZ=Asia/Seoul
     volumes:
       - ./web/app:/var/www/html
+      - ./web/logs:/var/log/apache2
       - ./web/conf/php.ini:/usr/local/etc/php/php.ini
     ports: 
       - '8080:80'
@@ -19,6 +22,7 @@ services:
     environment:
       - MARIADB_ROOT_PASSWORD=!root1234
       - MARIADB_DATABASE=wp
+      - TZ=Asia/Seoul
     volumes:
       - ./db/data:/var/lib/mysql
     networks:
