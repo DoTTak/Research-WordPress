@@ -1,0 +1,28 @@
+version: '3.9'
+
+services:
+  web:
+    build:
+      context: web
+    container_name: web
+    volumes:
+      - ./web/app:/var/www/html
+      - ./web/conf/php.ini:/usr/local/etc/php/php.ini
+    ports: 
+      - '8080:80'
+    restart: unless-stopped
+    networks:
+      - wp
+  db:
+    image: mariadb:lts
+    container_name: db
+    environment:
+      - MARIADB_ROOT_PASSWORD=!root1234
+      - MARIADB_DATABASE=wp
+    volumes:
+      - ./db/data:/var/lib/mysql
+    networks:
+      - wp
+
+networks:
+  wp:
