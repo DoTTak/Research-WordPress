@@ -16,6 +16,16 @@ services:
     restart: unless-stopped
     networks:
       - wp
+  php-my-admin:
+    image: phpmyadmin:latest
+    container_name: phpmyadmin
+    restart: unless-stopped
+    ports:
+        - "8888:80"
+    environment:
+        PMA_ARBITRARY: 1
+    networks:
+      - wp
   db:
     image: mariadb:lts
     container_name: db
