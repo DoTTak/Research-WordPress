@@ -1,4 +1,7 @@
-# Research-WordPress
+# Research-WordPress-CVE
+
+> This repository is dedicated to analyzing and researching CVE vulnerabilities discovered in WordPress.
+
 
 ## Information
 
