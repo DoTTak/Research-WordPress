@@ -2,6 +2,8 @@
 
 > This repository is dedicated to analyzing and researching CVE vulnerabilities discovered in WordPress.
 
+## CVE LIST
+- [CVE-2024-4439](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-4439)
 
 ## Information
 
