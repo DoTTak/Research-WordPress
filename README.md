@@ -13,8 +13,8 @@
 |Image|Tag|Port Forwarding|
 |:---:|:-:|:--:|
 |php|8.3-apache|8080:80|
-|mariadb|lts|8888:80|
-|phpmyadmin|latest| - |
+|mariadb|lts| - |
+|phpmyadmin|latest|8888:80|
 
 
 ### Submodule
