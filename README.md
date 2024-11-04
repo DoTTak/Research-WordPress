@@ -134,7 +134,7 @@ $ docker-compose up
 
 ![image.png](images/image-009.png)
 
-이후 `이름` 부분에 `" onmouseover='alert(`XSS`)' //` 를 입력하고, `공개적으로 보일 이름` 에 방금 입력한 내용을 선택하고 프로필을 업데이트합니다.
+이후 `이름` 부분에 ```" onmouseover='alert(`XSS`)' //``` 를 입력하고, `공개적으로 보일 이름` 에 방금 입력한 내용을 선택하고 프로필을 업데이트합니다.
 
 ![image.png](images/image-010.png)
 
