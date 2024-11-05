@@ -3,9 +3,10 @@
 > This repository is dedicated to analyzing and researching CVE vulnerabilities discovered in WordPress.
 
 ## CVE LIST
-|CVE|Vulnerbility|Version|
-|:-:|:----------:|:---------------:|
-|[CVE-2024-4439](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-4439)|Stored XSS|WP < 6.5.2|
+|CVE|Vulnerbility|CVSS(3.x)|Version|
+|:-:|:----------:|:-------:|:---------------:|
+|[CVE-2024-4439](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-4439)|Stored XSS|7.2|WP < 6.5.2|
+|[CVE-2024-27956](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-27956)|SQL Injection|9.9|`plugin` Automatic <= 3.92.0|
 
 ## Information
 
