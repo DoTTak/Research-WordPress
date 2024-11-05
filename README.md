@@ -10,11 +10,11 @@
 ## Information
 
 ### Docker
-|Image|Tag|Port Forwarding|
-|:---:|:-:|:--:|
-|php|8.3-apache|8080:80|
-|mariadb|lts| - |
-|phpmyadmin|latest|8888:80|
+|Image|Tag|Port Forwarding|Environment|
+|:---:|:-:|:--:|:----|
+|php|8.3-apache|8080:80| |
+|mariadb|lts| - | <ul><li>`MARIADB_DATABASE` wp</li><li>`MARIADB_ROOT_PASSWORD` !root1234</li></ul> |
+|phpmyadmin|latest|8888:80| |
 
 
 ### Submodule
