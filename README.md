@@ -7,6 +7,7 @@
 |:-:|:----------:|:-------:|:---------------:|
 |[CVE-2024-4439](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-4439)|Stored XSS|7.2|WP < 6.5.2|
 |[CVE-2024-27956](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-27956)|SQL Injection|9.9|`plugin` Automatic <= 3.92.0|
+|[CVE-2024-52427](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-52427)|Server Side Include(RCE)|8.8|`plugin` WordPress Plugin - Event Tickets with Ticket Scanner <= 2.3.11|
 
 ## Information
 
@@ -21,7 +22,7 @@
 ### Submodule
 |Submodule|Version|Path|
 |:-------:|:-----:|:--:|
-|WordPress|6.6.2|`web/app`|
+|WordPress|6.7.1|`web/app`|
 
 
 ## How to run?
