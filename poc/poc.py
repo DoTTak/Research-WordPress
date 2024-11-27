@@ -13,7 +13,7 @@ AUTHOR_ID = "author"
 AUTHOR_PW = "author"
 
 # 프록시 설정을 하려면 아래 변수에 서버 주소를 입력하세요.
-PROXY_SERVER = "http://localhost:7777"
+PROXY_SERVER = None
 proxies = {
     "https": PROXY_SERVER,
     "http": PROXY_SERVER,
