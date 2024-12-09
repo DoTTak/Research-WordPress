@@ -24,7 +24,7 @@ CVE-2024-10828은 Advanced Order Export For WooCommerce 플러그인의 취약�
 
 Advanced Order Export For WooCommerce 플러그인을 설치할 경우 WooCommerce 플러그인 대시보드 메뉴에 Export Orders 메뉴가 추가됩니다.
 
-![images](images/images-001.png)%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-12-09_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_3.11.19.png)
+![images](images/images-001.png)
 
 해당 메뉴에서는 주문 목록을 XLS, CSV, XML 등 다양한 포맷으로 내보낼 수 있으며, 필터링 기능을 통해 특정 조건에 맞는 주문 데이터만 선택적으로 내보낼 수 있습니다.
 
