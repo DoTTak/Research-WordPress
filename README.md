@@ -10,6 +10,7 @@
 |[CVE-2024-52427](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-52427)|Server Side Include(RCE)|8.8|`plugin` Event Tickets with Ticket Scanner <= 2.3.11|
 |[CVE-2024-43328](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-43328)|Local File Inclusion(LFI)|8.8|`plugin` EmbedPress <= 4.0.9|
 |[CVE-2024-10828](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-10828)|PHP Object Injection|8.1|`plugin` Advanced Order Export For WooCommerce <= 3.5.5|
+|[CVE-2024-10124](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-10124)|Improper Access Control(Authentication Bypass)|9.8|`plugin` Vayu Blocks – Gutenberg Blocks for WordPress & WooCommerce <= 1.1.1|
 
 ## Information
 
