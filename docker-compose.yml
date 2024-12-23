@@ -12,7 +12,7 @@ services:
       # - ./web/logs:/var/log/apache2
       - ./web/conf/php.ini:/usr/local/etc/php/php.ini
     ports: 
-      - '8080:80'
+      - '8080:8080'
     restart: unless-stopped
     networks:
       - wp
