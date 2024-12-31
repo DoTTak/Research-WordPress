@@ -12,6 +12,7 @@
 |[CVE-2024-10828](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-10828)|PHP Object Injection|8.1|`plugin` Advanced Order Export For WooCommerce <= 3.5.5|
 |[CVE-2024-10124](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-10124)|Improper Access Control(Authentication Bypass)|9.8|`plugin` Vayu Blocks – Gutenberg Blocks for WordPress & WooCommerce <= 1.1.1|
 |[CVE-2024-54273](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-54273)|PHP Ojbect Injection|9.8|`plugin` Mail Picker <= 1.0.14|
+|[CVE-2024-11977](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-11977)|Arbitrary Code(ShortCode) Execution|7.3|`plugin` The The kk Star Ratings <= 5.4.10|
 
 ## Information
 
