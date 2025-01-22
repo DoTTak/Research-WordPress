@@ -15,6 +15,7 @@
 |[CVE-2024-11977](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-11977)|Arbitrary Code(ShortCode) Execution|7.3|`plugin` The The kk Star Ratings <= 5.4.10|
 |[CVE-2024-11930](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-11930)|Stored XSS|6.4|`plugin` Taskbuilder <= 3.0.6|
 |[CVE-2024-12848](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-12848)|File Upload|8.8|`plugin` SKT Page Builder <= 4.7|
+|[CVE-2024-6695](https://github.com/DoTTak/Research-WordPress-CVE/tree/CVE-2024-6695)|Authentication Bypass|9.8|`plugin` User Profile Builder <= 3.11.8|
 
 ## Information
 
